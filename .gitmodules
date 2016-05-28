@@ -1,3 +1,6 @@
 [submodule "playerbot"]
 	path = playerbot
 	url = https://github.com/WillemElbers/portalclassic
+[submodule "core"]
+	path = core
+	url = https://github.com/WillemElbers/mangos-classic
