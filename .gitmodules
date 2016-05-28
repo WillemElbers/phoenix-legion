@@ -1,0 +1,3 @@
+[submodule "playerbot"]
+	path = playerbot
+	url = https://github.com/WillemElbers/portalclassic
